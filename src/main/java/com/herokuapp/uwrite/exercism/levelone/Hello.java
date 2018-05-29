@@ -17,7 +17,7 @@ public class Hello {
 
     public static void main(String[] args) {
 
-        final String TEST = "";
+        final String TEST = "My name is AMUDA Adeolu Badmus";
 
         System.out.println(
                 instance().sayHelloWorld(TEST)
