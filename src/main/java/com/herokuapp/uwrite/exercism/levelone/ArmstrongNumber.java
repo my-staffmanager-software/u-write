@@ -13,6 +13,7 @@ public class ArmstrongNumber {
      153.0, 370.0, 371.0, 407.0, 1634.0, 8208.0,
      9474.0, 54748.0, 92727.0, 93084.0, 548834.0, 1741725.0,
      4210818.0, 9800817.0, 9926315.0]
+     *
      * */
 
     public static String determiner(final double input){

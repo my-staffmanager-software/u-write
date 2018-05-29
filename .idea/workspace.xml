@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc5a636-834b-4214-be73-3e6872f77e14" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/mth/BasicMath.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hello.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/StringReversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/StringReversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +35,8 @@
       <file leaf-file-name="ArmstrongNumber.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            <state relative-caret-position="123">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -51,7 +47,7 @@
       <file leaf-file-name="BasicMath.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/mth/BasicMath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
+            <state relative-caret-position="408">
               <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
               <folding />
             </state>
@@ -127,8 +123,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/StringReversal.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/mth/BasicMath.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java" />
       </list>
     </option>
   </component>
@@ -587,12 +583,12 @@
       <workItem from="1527414219850" duration="2013000" />
       <workItem from="1527589139763" duration="979000" />
       <workItem from="1527590948918" duration="2222000" />
-      <workItem from="1527593183472" duration="13280000" />
+      <workItem from="1527593183472" duration="14017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462949000" />
+    <option name="totallyTimeSpent" value="463686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -803,7 +799,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/mth/BasicMath.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
+        <state relative-caret-position="408">
           <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
           <folding />
         </state>
@@ -811,8 +807,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/ArmstrongNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        <state relative-caret-position="123">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
