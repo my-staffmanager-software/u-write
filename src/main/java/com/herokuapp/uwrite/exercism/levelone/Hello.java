@@ -17,7 +17,7 @@ public class Hello {
 
     public static void main(String[] args) {
 
-        final String TEST = "Hello World...Welcome to Java 10";
+        final String TEST = "";
 
         System.out.println(
                 instance().sayHelloWorld(TEST)
