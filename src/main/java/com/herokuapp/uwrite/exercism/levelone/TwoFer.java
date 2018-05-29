@@ -17,7 +17,8 @@ public final class TwoFer {
 
         youOrMe = "One for "+youOrMe+", One for me.";
 
-        System.out.println(youOrMe);
+        System.out.println("Input  : "+SOURCE);
+        System.out.println("Output : "+youOrMe);
 
         return youOrMe;
 
@@ -27,5 +28,12 @@ public final class TwoFer {
         instance().forYouOrMe("amuda");
         instance().forYouOrMe(null);
         instance().forYouOrMe("");
+        instance().forYouOrMe("me");
+        instance().forYouOrMe("you");
+        instance().forYouOrMe("one");
+        instance().forYouOrMe("for");
+
+
+
     }
 }

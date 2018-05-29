@@ -7,7 +7,8 @@ public final class ErrorHandler implements Serializable {
         String output = input;
 
         if( input == null || input.length() == 0)
-            output = "NO INPUT IS PROVIDED...PLEASE INPUT SOMETHING";
+            output = "";
+            // output = "NO INPUT IS PROVIDED...PLEASE INPUT SOMETHING";
         return output;
     }
 }
