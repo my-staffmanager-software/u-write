@@ -1,6 +1,6 @@
 package com.herokuapp.uwrite.exercism.levelone;
-import com.herokuapp.uwrite.singleton.SingletonObject;
 
+import static java.lang.System.*;
 import static com.herokuapp.uwrite.errordetector.ErrorHandler.*;
 
 public class Hello {
@@ -19,7 +19,7 @@ public class Hello {
 
         final String TEST = "My name is AMUDA Adeolu Badmus";
 
-        System.out.println(
+        out.println(
                 instance().sayHelloWorld(TEST)
         );
     }

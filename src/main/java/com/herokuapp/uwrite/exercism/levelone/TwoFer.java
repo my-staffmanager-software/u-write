@@ -1,4 +1,5 @@
 package com.herokuapp.uwrite.exercism.levelone;
+import static java.lang.System.*;
 
 public final class TwoFer {
 
@@ -17,8 +18,8 @@ public final class TwoFer {
 
         youOrMe = "One for "+youOrMe+", One for me.";
 
-        System.out.println("Input  : "+SOURCE);
-        System.out.println("Output : "+youOrMe);
+        out.println("Input  : "+SOURCE);
+        out.println("Output : "+youOrMe);
 
         return youOrMe;
 

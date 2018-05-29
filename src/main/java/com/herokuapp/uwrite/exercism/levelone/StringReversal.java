@@ -2,6 +2,8 @@ package com.herokuapp.uwrite.exercism.levelone;
 
 import com.herokuapp.uwrite.errordetector.ErrorHandler;
 import static com.herokuapp.uwrite.util.data.DataAppender.*;
+import static java.lang.System.*;
+
 
 public final class StringReversal {
 
@@ -22,9 +24,10 @@ public final class StringReversal {
         for(int index = DATA_SIZE; index >= 0; index--)
             output.append(splited_input[index]);
 
-
-        System.out.println("Input  : "+input);
-        System.out.println("Output : "+output);
+        out.println("String reversal...");
+        out.println("Input  : "+input);
+        out.println("Output : "+output);
+        out.println();
 
         return output.toString();
 
