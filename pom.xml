@@ -2,12 +2,14 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.herokuapp.write-it</groupId>
-    <artifactId>write-it</artifactId>
+    <artifactId>u-write</artifactId>
     <version>1.0.O</version>
     <packaging>war</packaging>
 
+    <dependencies>
+    </dependencies>
     <build>
-        <finalName>write-it</finalName>
+        <finalName>u-write</finalName>
 		<plugins>
         
         <plugin>
