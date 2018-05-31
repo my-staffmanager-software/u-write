@@ -7,6 +7,9 @@
  <a href="https://u-write.herokuapp.com" target="_blank"> JavaEE app named "u-write"</a>.
 </ul>
 <br/>
+<img src="exercism.png" width="400" height="400">
+<br/>
+<br/>
 <h3>Focus/Outcome</h4>
 <li>Solve all the problems</li>
 <li>Implement some/most of the solution into a JavaEE app with the following functionalities</li>
