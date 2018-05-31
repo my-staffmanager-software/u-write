@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcc5a636-834b-4214-be73-3e6872f77e14" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/LevelOneTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/Hamming.class" afterPath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/Hamming.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/Hello.class" afterPath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/Hello.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/StringReversal.class" afterPath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/StringReversal.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/TwoFer.class" afterPath="$PROJECT_DIR$/target/classes/com/herokuapp/uwrite/exercism/levelone/TwoFer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.MD" afterPath="$PROJECT_DIR$/readme.MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hamming.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hamming.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hello.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hello.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/StringReversal.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/StringReversal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,22 +43,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoFer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java">
+      <file leaf-file-name="Pangram.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="153">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Pangram.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java">
+      <file leaf-file-name="RandomText.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="119">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,9 +68,9 @@
       <file leaf-file-name="readme.MD" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="170">
-                <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="69">
+                <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -129,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/permit_approval/editpermit.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/permit_approval/permit-form.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/permit_approval/viewpermit.xhtml" />
         <option value="$PROJECT_DIR$/src/main/webapp/permit_raiser/viewpermit.xhtml" />
@@ -169,17 +161,18 @@
         <option value="$PROJECT_DIR$/src/main/webapp/open/resources.xhtml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Acronym.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/mth/BasicMath.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Gigasecond.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/Counter.java" />
-        <option value="$PROJECT_DIR$/readme.MD" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/StringReversal.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/TwoFer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hamming.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/LevelOneTest.java" />
+        <option value="$PROJECT_DIR$/readme.MD" />
+        <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java" />
       </list>
     </option>
   </component>
@@ -355,7 +348,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LevelOneTest">
+  <component name="RunManager" selected="Application.Pangram">
     <configuration name="Acronym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" track_test_folders="true" runner="idea">
         <pattern>
@@ -432,14 +425,14 @@
       <module name="write-it" />
       <envs />
     </configuration>
-    <configuration name="RandomText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Pangram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" track_test_folders="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.herokuapp.uwrite.util.data.text.*" />
+          <option name="PATTERN" value="com.herokuapp.uwrite.exercism.levelone.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.herokuapp.uwrite.util.data.text.RandomText" />
+      <option name="MAIN_CLASS_NAME" value="com.herokuapp.uwrite.exercism.levelone.Pangram" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -533,19 +526,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.RandomText" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Acronym" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Gigasecond" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Hamming" />
-      <item index="4" class="java.lang.String" itemvalue="Application.LevelOneTest" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Acronym" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Gigasecond" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Hamming" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LevelOneTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Pangram" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.LevelOneTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Hamming" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Gigasecond" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Acronym" />
-        <item index="4" class="java.lang.String" itemvalue="Application.RandomText" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Pangram" />
+        <item index="1" class="java.lang.String" itemvalue="Application.LevelOneTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Hamming" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Gigasecond" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Acronym" />
       </list>
     </recent_temporary>
   </component>
@@ -649,12 +642,12 @@
       <workItem from="1527624631828" duration="4280000" />
       <workItem from="1527629392857" duration="1439000" />
       <workItem from="1527695357798" duration="442000" />
-      <workItem from="1527772714987" duration="6305000" />
+      <workItem from="1527772714987" duration="7253000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484302000" />
+    <option name="totallyTimeSpent" value="485250000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -801,16 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/mth/BasicMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -873,19 +856,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.MD">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="170">
-            <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hamming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -907,10 +884,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Hamming.java">
+    <entry file="file://$PROJECT_DIR$/readme.MD">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="69">
+            <caret line="6" column="83" lean-forward="false" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/util/data/text/RandomText.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="50" column="5" lean-forward="true" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -919,8 +912,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/Pangram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
