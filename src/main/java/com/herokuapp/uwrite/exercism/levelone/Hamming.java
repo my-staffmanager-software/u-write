@@ -3,6 +3,13 @@ package com.herokuapp.uwrite.exercism.levelone;
 import java.util.ArrayList;
 import java.util.List;
 
+import static com.herokuapp.uwrite.exercism.levelone.Acronym.patternFromFront;
+import static com.herokuapp.uwrite.exercism.levelone.ArmstrongNumber.determiner;
+import static com.herokuapp.uwrite.exercism.levelone.Gigasecond.forEachLifeSpan;
+import static com.herokuapp.uwrite.exercism.levelone.Hello.instance;
+import static com.herokuapp.uwrite.exercism.levelone.StringReversal.reverse;
+import static com.herokuapp.uwrite.exercism.levelone.TwoFer.forYouOrMe;
+import static com.herokuapp.uwrite.util.data.text.RandomText.wordRepetition;
 import static java.lang.System.*;
 
 public class Hamming {

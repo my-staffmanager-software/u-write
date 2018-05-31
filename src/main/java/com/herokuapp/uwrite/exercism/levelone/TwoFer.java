@@ -9,7 +9,7 @@ public final class TwoFer {
         return TWO_FER_INSTANCE;
     }
 
-    public String forYouOrMe(String SOURCE){
+    public static String forYouOrMe(String SOURCE){
 
         String youOrMe = SOURCE;
 
@@ -26,13 +26,13 @@ public final class TwoFer {
     }
 
     public static void main(String[] args) {
-        instance().forYouOrMe("amuda");
-        instance().forYouOrMe(null);
-        instance().forYouOrMe("");
-        instance().forYouOrMe("me");
-        instance().forYouOrMe("you");
-        instance().forYouOrMe("one");
-        instance().forYouOrMe("for");
+        forYouOrMe("amuda");
+        forYouOrMe(null);
+        forYouOrMe("");
+        forYouOrMe("me");
+        forYouOrMe("you");
+        forYouOrMe("one");
+        forYouOrMe("for");
 
 
 

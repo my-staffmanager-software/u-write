@@ -13,7 +13,7 @@ public final class StringReversal {
         return STRING_REVERSAL_INSTANCE;
     }
 
-    public String reverse(final String input){
+    public static String reverse(final String input){
 
         String[] splited_input = ErrorHandler.isNullOrEmpty(input).split("");
 
