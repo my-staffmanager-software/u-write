@@ -10,7 +10,7 @@ public final class BasicMath {
      *
      * */
 
-    private static double raiseToPower(final double source, final double power){
+    public static double raiseToPower(final double source, final double power){
 
         final int ROOT_INDEX = 1;
 

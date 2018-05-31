@@ -1,6 +1,8 @@
 package com.herokuapp.uwrite.util.data.text;
 
 import java.security.SecureRandom;
+import java.util.Arrays;
+import java.util.stream.IntStream;
 
 public class RandomText {
 
@@ -17,25 +19,20 @@ public class RandomText {
         int[] index = new int[size];
         StringBuilder word = new StringBuilder();
 
-        for( int c = 0; c < index.length; c++){
+        IntStream.range(0, index.length).forEachOrdered(c -> {
             index[c] = size + secureRandom.nextInt(alphabets.length - size);
             word.append(alphabets[index[c]]);
-        }
+        });
         return word.toString();
     }
 
     public static String wordRepetition(final int HOW_MANY_WORDS, final int HOW_MANY_LETTER_WORDS_EACH){
 
         String[] output = new String[HOW_MANY_WORDS];
-
-        for( int c = 0; c < output.length; c++){
-            output[c] = randomWord(HOW_MANY_LETTER_WORDS_EACH);
-        }
-
         StringBuilder result = new StringBuilder();
 
-        for(String finalOutputs : output)
-            result.append(finalOutputs).append(" ");
+        Arrays.setAll(output, c -> randomWord(HOW_MANY_LETTER_WORDS_EACH));
+        Arrays.stream(output).forEachOrdered(finalOutputs -> result.append(finalOutputs).append(" "));
 
         return result.toString();
     }
