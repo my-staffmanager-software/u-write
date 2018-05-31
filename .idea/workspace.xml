@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bcc5a636-834b-4214-be73-3e6872f77e14" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.MD" afterPath="$PROJECT_DIR$/readme.MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/NECLEOTIDES.java" afterPath="$PROJECT_DIR$/src/main/java/com/herokuapp/uwrite/exercism/levelone/NECLEOTIDES.java" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +54,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="120">
-                <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+                <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -628,12 +627,12 @@
       <workItem from="1527624631828" duration="4280000" />
       <workItem from="1527629392857" duration="1439000" />
       <workItem from="1527695357798" duration="442000" />
-      <workItem from="1527772714987" duration="10341000" />
+      <workItem from="1527772714987" duration="10406000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="488338000" />
+    <option name="totallyTimeSpent" value="488403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -943,7 +942,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="120">
-            <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+            <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
